@@ -1,0 +1,12 @@
+[
+        {"文言汉语网-诗经,主页那些链接也可以爬爬":"http://www.wenyanhanyu.com/shijing/"},
+        {"古诗文网-各种体裁":"https://www.gushiwen.org/,https://www.gswen.cn/"},
+        "诗词名句网，数据不多":
+            {"link":"http://www.shicimingju.com/",
+            "regex_analysis":
+                {"classified by author ":"http://www.shicimingju.com/chaxun/zuozhe/\d*(_\d*)?\.html",
+                "classified by mark":"http://www.shicimingju.com/shicimark/.+\.html",
+                "others":"其实把叶梦得那个spider稍微改改就行了"}
+            },
+        {"易文言":"http://ewenyan.com/contents/more/lt.html"}
+]
